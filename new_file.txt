@@ -9,3 +9,6 @@ Section 4
 
 Section 5
 Person_A made this change
+
+Section 6
+New_guy did not made this change
